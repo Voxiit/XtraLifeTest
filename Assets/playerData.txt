@@ -1,0 +1,1 @@
+{"networkType":"email","playerId":"6060d43ccedbe9c451a2b594","playerSecret":"1796d49d63c93306b2e613212aa4d314c31e41d6","networkID":"ccccc@test.com","networkSecret":"1234"}
